@@ -2,6 +2,11 @@
 
 Building a multi-view neural network to identify and classify plant diseases. This code uses popular libraries like TensorFlow and Keras, but you may need to adapt it to your specific dataset and requirements.
 
+### Import Dataset
+
+<b> Dataset Link (Plant Vliiage Dataset ):</b><br> <a href='https://data.mendeley.com/datasets/tywbtsjrjv/1'> https://data.mendeley.com/datasets/tywbtsjrjv/1 </a> 
+
+
 ## Step 1: Data Collection and Preprocessing
 
 Collect a dataset of images containing healthy and diseased plants.
