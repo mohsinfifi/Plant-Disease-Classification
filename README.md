@@ -4,7 +4,7 @@ Building a multi-view neural network to identify and classify plant diseases. Th
 
 ### Import Dataset
 
-<b> Dataset Link (Plant Vliiage Dataset ):</b><br> <a href='https://data.mendeley.com/datasets/tywbtsjrjv/1'> https://data.mendeley.com/datasets/tywbtsjrjv/1 </a> 
+<b> Dataset Link (Plant Village Dataset ):</b><br> <a href='https://data.mendeley.com/datasets/tywbtsjrjv/1'> https://data.mendeley.com/datasets/tywbtsjrjv/1 </a> 
 
 
 ## Step 1: Data Collection and Preprocessing
